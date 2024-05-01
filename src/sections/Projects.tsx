@@ -21,7 +21,7 @@ export default function Projects() {
             title="TikDown.click"
             description="A website where you can download tiktok videos without watermark."
             link="https://tikdown.click"
-            repo="https://github.com/libyzxy0/tiktok-downloader"
+            repo="https://github.com/polongdev/tiktok-downloader"
             image={tikDownThumbnail}
             langs={["Vue", "JavaScript", "Tailwindcss", "Express", "Vercel"]}
           />
@@ -30,7 +30,7 @@ export default function Projects() {
             description="API that sends a lot of beautiful, cute, and hot girl tiktok videos."
             image={shotiThumbnail}
             link="https://shoti-api.deno.dev"
-            repo="https://github.com/libyzxy0/shoti"
+            repo="https://github.com/polongdev/shoti"
             langs={[
               "Nuxt",
               "JavaScript",
@@ -44,8 +44,8 @@ export default function Projects() {
             title="Modern Portfolio"
             description="A modern portfolio using react, tailwindcss and shadcn ui."
             image={pThumbnail}
-            link="https://libyzxy0.com"
-            repo="https://github.com/libyzxy0/modern-portfolio"
+            link="https://polongdev.com"
+            repo="https://github.com/polongdev/modern-portfolio"
             langs={[
               "React",
               "Tailwindcss", 
@@ -58,7 +58,7 @@ export default function Projects() {
             description="A simple weather forecast website using React."
             image={wThumbnail}
             link="https://weather-app-beryl-five.vercel.app"
-            repo="https://github.com/libyzxy0/weather-app"
+            repo="https://github.com/polongdev/weather-app"
             langs={[
               "React",
               "Tailwindcss", 
