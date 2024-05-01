@@ -2,7 +2,7 @@ export default function Footer() {
   return (
     <footer className="bg-gray-900 w-full">
       <header className="mx-6 pt-6 md:mx-10">
-        <a href="https://libyzxy0.com" className="text-2xl md:text-4xl font-semibold tracking-tight text-white flex flex-row">
+        <a href="https://polongdev.com" className="text-2xl md:text-4xl font-semibold tracking-tight text-white flex flex-row">
           <p className="text-sky-300">liby</p>zxy0
         </a>
         <div className="h-1 w-14 rounded-full bg-gradient-to-r from-sky-200 to-blue-400 md:w-16 md:h-2 pt-1"></div>
@@ -57,7 +57,7 @@ export default function Footer() {
             This portfolio is open-source and free to use, see repo{" "}
             <a
               className="text-sky-300 hover:underline"
-              href="https://github.com/libyzxy0/modern-portfolio"
+              href="https://github.com/polongdev/modern-portfolio"
               target="_balnk"
             >
               here
@@ -70,8 +70,8 @@ export default function Footer() {
         <p className="text-gray-400">
           Made with 💙 and ☕ by <a
             className="text-sky-300 hover:underline"
-            href="https://libyzxy0.com"
-          > libyzxy0</a>.
+            href="https://polongdev.com"
+          > polongdev</a>.
         </p>
       </div>
     </footer>
