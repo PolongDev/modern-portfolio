@@ -15,13 +15,13 @@ export default function Education() {
         </header>
         <div className="mx-6 pt-8 md:mx-10">
           <TimelineItem title="Elementary">
-            Studied Grade 1-6 at Balighot Elementary School (115550)
+            Studied Grade 1-6 at Mangusu Elementary School 
           </TimelineItem>
           <TimelineItem title="Junior High School">
-            Studied Grade 7 at Florentina B. Degala NHS (302404)
+            Studied Grade 7-10 at Mangusu Integrated School MIS 
           </TimelineItem>
-          <TimelineItem title="Junior High School">
-            Studied Grade 8-10 at Sto. Cristo National High School (307509)
+          <TimelineItem title="Senior High School">
+            Studied Grade 11 at Mangusu Integrated School (307509)
           </TimelineItem>
         </div>
       </section>
