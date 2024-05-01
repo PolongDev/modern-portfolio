@@ -30,37 +30,37 @@ export default function Contact() {
           </SlideAnimation>
           <SlideAnimation>
           <a
-            href="https://facebook.com/libyzxy0"
+            href="https://facebook.com/herkenneth"
             className="flex flex-row text-sky-300 items-center mt-5 mr-5"
           >
             <Icon className="h-16 w-16" icon="logos:facebook" />
             <div className="flex flex-col">
               <h1 className="text-white text-2xl font-bold mx-2">Facebook</h1>
-              <p className="text-gray-400 mx-2">/libyzxy0</p>
+              <p className="text-gray-400 mx-2">/kennethperez</p>
             </div>
           </a>
           </SlideAnimation>
           <SlideAnimation>
           <a
-            href="https://instagram.com/libyzxy0"
+            href="https://instagram.com/polongdev"
             className="flex flex-row text-sky-300 items-center mt-5 mr-3"
           >
             <Icon className="h-16 w-16" icon="skill-icons:instagram" />
             <div className="flex flex-col">
               <h1 className="text-white text-2xl font-bold mx-2">Instagram</h1>
-              <p className="text-gray-400 mx-2">/@libyzxy0</p>
+              <p className="text-gray-400 mx-2">/@polongdev</p>
             </div>
           </a>
           </SlideAnimation>
           <SlideAnimation>
           <a
-            href="https://linkedin.com/in/libyzxy0"
+            href="https://linkedin.com/in/polongdev"
             className="flex flex-row text-sky-300 items-center mt-5 mr-3"
           >
             <Icon className="h-16 w-16" icon="skill-icons:linkedin" />
             <div className="flex flex-col">
               <h1 className="text-white text-2xl font-bold mx-2">Linkedin</h1>
-              <p className="text-gray-400 mx-2">/in/libyzxy0</p>
+              <p className="text-gray-400 mx-2">/in/polongdev</p>
             </div>
           </a>
           </SlideAnimation>
