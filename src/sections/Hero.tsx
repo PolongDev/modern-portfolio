@@ -10,7 +10,7 @@ export default function Hero() {
         <div className="w-full flex justify-center items-center mt-10 mb-5">
           <div className="text-white text-center py-1.5 px-4 font-mono text-sm bg-gray-900 rounded-full md:py-2 md:px-6 md:text-xl">
             Kumusta? <span className="inline-block animate-wave">👋</span>, I'm
-            Jan Liby
+            Kenneth Perez
           </div>
         </div>
         <h1 className="scroll-m-20 text-3xl font-extrabold tracking-tight md:text-7xl text-white mt-1 md:mx-20">
