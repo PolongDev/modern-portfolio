@@ -21,7 +21,7 @@ export default function Education() {
             Studied Grade 7-10 at Mangusu Integrated School MIS 
           </TimelineItem>
           <TimelineItem title="Senior High School">
-            Studied Grade 11 at Mangusu Integrated School (307509)
+            Studied Grade 11 at Mangusu Integrated School 
           </TimelineItem>
         </div>
       </section>
