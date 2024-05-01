@@ -16,7 +16,7 @@ export default function Contact() {
         <div className="mx-6 md:mx-10 mt-5 flex flex-col md:flex-row md:flex-wrap mb-3">
           <SlideAnimation>
           <a
-            href="mailto:janlibydelacosta@gmail.com"
+            href="mailto:kennethgregorioperez@gmail.com"
             className="flex flex-row text-sky-300 items-center mt-5 mr-5"
           >
             <Icon className="h-16 w-16" icon="ic:baseline-email" />
@@ -24,7 +24,7 @@ export default function Contact() {
               <h1 className="text-white text-2xl font-bold mx-2">
                 Email
               </h1>
-              <p className="text-gray-400 mx-2">janlibydelacosta@gmail.com</p>
+              <p className="text-gray-400 mx-2">kennethgregorioperez@gmail.com</p>
             </div>
           </a>
           </SlideAnimation>
