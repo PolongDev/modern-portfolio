@@ -15,7 +15,7 @@ export default function Education() {
         </header>
         <div className="mx-6 pt-8 md:mx-10">
           <TimelineItem title="Elementary">
-            Studied Grade 1-6 at Mangusu Elementary School 
+            Studied Grade 1-6 at Mangusu Integrated School 
           </TimelineItem>
           <TimelineItem title="Junior High School">
             Studied Grade 7-10 at Mangusu Integrated School MIS 
