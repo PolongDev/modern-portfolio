@@ -1,5 +1,3 @@
-![Thumbnail](https://www.libyzxy0.com/assets/modern-portfolio-dme1TDzU.png)
-
 # Modern Portfolio
 
 A modern portfolio using React, Tailwind CSS, and Shadcn UI.
