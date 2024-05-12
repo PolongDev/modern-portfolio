@@ -1,6 +1,6 @@
 import Project from "@/components/ProjectCard";
 import tikDownThumbnail from "@/assets/images/tikdown-click.png";
-import autobotThumbnail from "@/assets/images/shoti-api.png";
+import autobotThumbnail from "@/assets/images/autobot.png";
 import pThumbnail from "@/assets/images/modern-portfolio.png";
 import wThumbnail from "@/assets/images/weather-app.png";
 export default function Projects() {
