@@ -22,12 +22,10 @@ export default function Projects() {
             link="https://autobot-by-polongdev.onrender.com"
             repo="https://github.com/polongdev/project-autobot"
             langs={[
-              "Nuxt",
               "JavaScript",
-              "Express",
               "Node.js",
-              "Tailwindcss",
-              "MongoDB",
+              "HTML",
+              "Other",
             ]}
           />
           <Project
