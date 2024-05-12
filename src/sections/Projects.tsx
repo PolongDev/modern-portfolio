@@ -43,19 +43,6 @@ export default function Projects() {
               "ShadcnUI"
             ]}
           />
-          <Project
-            title="Modern Portfolio"
-            description="A modern portfolio using react, tailwindcss and shadcn ui."
-            image={pThumbnail}
-            link="https://polongdev.onrender.com"
-            repo="https://github.com/polongdev/modern-portfolio"
-            langs={[
-              "React",
-              "Tailwindcss", 
-              "TypeScript", 
-              "ShadcnUI"
-            ]}
-          />
           
         </div>
       </section>
