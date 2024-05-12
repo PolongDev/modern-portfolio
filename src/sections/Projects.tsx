@@ -1,6 +1,6 @@
 import Project from "@/components/ProjectCard";
 import tikDownThumbnail from "@/assets/images/tikdown-click.png";
-import shotiThumbnail from "@/assets/images/shoti-api.png";
+import autobotThumbnail from "@/assets/images/shoti-api.png";
 import pThumbnail from "@/assets/images/modern-portfolio.png";
 import wThumbnail from "@/assets/images/weather-app.png";
 export default function Projects() {
@@ -26,11 +26,11 @@ export default function Projects() {
             langs={["Vue", "JavaScript", "Tailwindcss", "Express", "Vercel"]}
           />
           <Project
-            title="Shoti API"
+            title="PROJECT-AUTOBOT"
             description="API that sends a lot of beautiful, cute, and hot girl tiktok videos."
-            image={shotiThumbnail}
-            link="https://shoti-api.deno.dev"
-            repo="https://github.com/polongdev/shoti"
+            image={autobotThumbnail}
+            link="https://autobot-by-polongdev.onrender.com"
+            repo="https://github.com/polongdev/project-autobot"
             langs={[
               "Nuxt",
               "JavaScript",
