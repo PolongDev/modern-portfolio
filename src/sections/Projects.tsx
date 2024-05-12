@@ -17,7 +17,7 @@ export default function Projects() {
         <div className="mx-7 md:mx-10 flex justify-center items-center flex-col md:flex-row md:flex-wrap mt-12 md:justify-start ">
           <Project
             title="PROJECT-AUTOBOT"
-            description="API that sends a lot of beautiful, cute, and hot girl tiktok videos."
+            description="Autobot is a Facebook Messenger bot designed to assist students with various features, including AI-powered responses, file searches, music and video searches, and more. The bot is built using the fca-unofficial library and integrates with APIs to provide a wide range of capabilities."
             image={autobotThumbnail}
             link="https://autobot-by-polongdev.onrender.com"
             repo="https://github.com/polongdev/project-autobot"
