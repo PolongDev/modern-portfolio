@@ -15,7 +15,7 @@ const Navbar: React.FC = () => {
   return (
     <nav className="sticky top-0 w-full h-14 md:h-16 bg-gray-950 flex flex-row items-center justify-between z-30 backdrop-filter backdrop-blur-md bg-opacity-30">
       <div className="flex flex-row items-center mx-4">
-        <a href="https://polongdev.com" className="text-2xl md:text-3xl font-semibold tracking-tight text-white flex flex-row">
+        <a href="https://polongdev.onrender.com" className="text-2xl md:text-3xl font-semibold tracking-tight text-white flex flex-row">
           <p className="text-sky-300">polong</p>dev
         </a>
       </div>
