@@ -2,7 +2,7 @@
 
 A modern portfolio using React, Tailwind CSS, and Shadcn UI.
 
-[![libyzxy0.com](https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2Flibyzxy0.com)](http://libyzxy0.com)
+[![polongdev.onrender.com](https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2Fpolongdev.onrender.com)](http://polongdev.onrender.com)
 
 ## Installation 
 
@@ -16,4 +16,4 @@ npm install
 npm run dev
 ```
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/libyzxy0/modern-portfolio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/polongdev/modern-portfolio)
