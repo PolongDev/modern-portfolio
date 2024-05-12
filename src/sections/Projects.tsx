@@ -16,14 +16,6 @@ export default function Projects() {
         </header>
         <div className="mx-7 md:mx-10 flex justify-center items-center flex-col md:flex-row md:flex-wrap mt-12 md:justify-start ">
           <Project
-            title="TikDown.click"
-            description="A website where you can download tiktok videos without watermark."
-            link="https://tikdown.click"
-            repo="https://github.com/polongdev/tiktok-downloader"
-            image={tikDownThumbnail}
-            langs={["Vue", "JavaScript", "Tailwindcss", "Express", "Vercel"]}
-          />
-          <Project
             title="PROJECT-AUTOBOT"
             description="API that sends a lot of beautiful, cute, and hot girl tiktok videos."
             image={autobotThumbnail}
@@ -52,11 +44,11 @@ export default function Projects() {
             ]}
           />
           <Project
-            title="Weather App"
-            description="A simple weather forecast website using React."
-            image={wThumbnail}
-            link="https://weather-app-beryl-five.vercel.app"
-            repo="https://github.com/polongdev/weather-app"
+            title="Modern Portfolio"
+            description="A modern portfolio using react, tailwindcss and shadcn ui."
+            image={pThumbnail}
+            link="https://polongdev.onrender.com"
+            repo="https://github.com/polongdev/modern-portfolio"
             langs={[
               "React",
               "Tailwindcss", 
