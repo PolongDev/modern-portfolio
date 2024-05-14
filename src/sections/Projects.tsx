@@ -32,7 +32,7 @@ export default function Projects() {
             title="Modern Portfolio"
             description="A modern portfolio using react, tailwindcss and shadcn ui."
             image={pThumbnail}
-            link="https://polongdev.onrender.com"
+            link="https://polongdev.github.io/home/"
             repo="https://github.com/polongdev/modern-portfolio"
             langs={[
               "React",
