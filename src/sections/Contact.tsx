@@ -30,7 +30,7 @@ export default function Contact() {
           </SlideAnimation>
           <SlideAnimation>
           <a
-            href="https://facebook.com/herkenneth"
+            href="https://facebook.com/100090346516171"
             className="flex flex-row text-sky-300 items-center mt-5 mr-5"
           >
             <Icon className="h-16 w-16" icon="logos:facebook" />
