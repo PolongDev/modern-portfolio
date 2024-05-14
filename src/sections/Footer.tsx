@@ -2,7 +2,7 @@ export default function Footer() {
   return (
     <footer className="bg-gray-900 w-full">
       <header className="mx-6 pt-6 md:mx-10">
-        <a href="https://polongdev.onrender.com" className="text-2xl md:text-4xl font-semibold tracking-tight text-white flex flex-row">
+        <a href="https://polongdev.github.io/home/" className="text-2xl md:text-4xl font-semibold tracking-tight text-white flex flex-row">
           <p className="text-sky-300">polong</p>dev
         </a>
         <div className="h-1 w-14 rounded-full bg-gradient-to-r from-sky-200 to-blue-400 md:w-16 md:h-2 pt-1"></div>
@@ -70,7 +70,7 @@ export default function Footer() {
         <p className="text-gray-400">
           Made with 💙 and ☕ by <a
             className="text-sky-300 hover:underline"
-            href="https://polongdev.onrender.com"
+            href="https://polongdev.github.io/home/"
           > polongdev</a>.
         </p>
       </div>
